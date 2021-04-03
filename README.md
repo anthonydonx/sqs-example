@@ -1,4 +1,4 @@
-# sqs-example
+# Simple Queue Service - example
 SpringBoot with AWS Simple Message Queue tutorial
 
 
